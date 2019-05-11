@@ -1,7 +1,7 @@
 /*
 how does this anddiion effect version control software
 
-
+This is a second entry into the comments area
 
 */
 
